@@ -1,0 +1,16 @@
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\bin\Debug\net5.0\SPP2.exe
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\bin\Debug\net5.0\SPP2.deps.json
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\bin\Debug\net5.0\SPP2.runtimeconfig.json
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\bin\Debug\net5.0\SPP2.runtimeconfig.dev.json
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\bin\Debug\net5.0\SPP2.dll
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\bin\Debug\net5.0\ref\SPP2.dll
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\bin\Debug\net5.0\SPP2.pdb
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\obj\Debug\net5.0\SPP2.csproj.AssemblyReference.cache
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\obj\Debug\net5.0\SPP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\obj\Debug\net5.0\SPP2.AssemblyInfoInputs.cache
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\obj\Debug\net5.0\SPP2.AssemblyInfo.cs
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\obj\Debug\net5.0\SPP2.csproj.CoreCompileInputs.cache
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\obj\Debug\net5.0\SPP2.dll
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\obj\Debug\net5.0\ref\SPP2.dll
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\obj\Debug\net5.0\SPP2.pdb
+D:\SPP_Labs\SPP_Project2-master\SPP_Project2\obj\Debug\net5.0\SPP2.genruntimeconfig.cache

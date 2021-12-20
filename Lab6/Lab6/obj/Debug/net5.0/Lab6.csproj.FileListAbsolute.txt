@@ -1,0 +1,16 @@
+D:\SPP_Labs\Lab6\Lab6\bin\Debug\net5.0\Lab6.exe
+D:\SPP_Labs\Lab6\Lab6\bin\Debug\net5.0\Lab6.deps.json
+D:\SPP_Labs\Lab6\Lab6\bin\Debug\net5.0\Lab6.runtimeconfig.json
+D:\SPP_Labs\Lab6\Lab6\bin\Debug\net5.0\Lab6.runtimeconfig.dev.json
+D:\SPP_Labs\Lab6\Lab6\bin\Debug\net5.0\Lab6.dll
+D:\SPP_Labs\Lab6\Lab6\bin\Debug\net5.0\ref\Lab6.dll
+D:\SPP_Labs\Lab6\Lab6\bin\Debug\net5.0\Lab6.pdb
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\net5.0\Lab6.csproj.AssemblyReference.cache
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\net5.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfoInputs.cache
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfo.cs
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\net5.0\Lab6.csproj.CoreCompileInputs.cache
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\net5.0\Lab6.dll
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\net5.0\ref\Lab6.dll
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\net5.0\Lab6.pdb
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\net5.0\Lab6.genruntimeconfig.cache

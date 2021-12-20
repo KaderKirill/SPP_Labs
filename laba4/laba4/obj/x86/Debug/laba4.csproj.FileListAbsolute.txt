@@ -1,0 +1,7 @@
+D:\SPP_Labs\laba4\laba4\obj\x86\Debug\laba4.csproj.AssemblyReference.cache
+D:\SPP_Labs\laba4\laba4\obj\x86\Debug\laba4.csproj.CoreCompileInputs.cache
+D:\SPP_Labs\laba4\laba4\bin\Debug\laba4.exe.config
+D:\SPP_Labs\laba4\laba4\bin\Debug\laba4.exe
+D:\SPP_Labs\laba4\laba4\bin\Debug\laba4.pdb
+D:\SPP_Labs\laba4\laba4\obj\x86\Debug\laba4.exe
+D:\SPP_Labs\laba4\laba4\obj\x86\Debug\laba4.pdb

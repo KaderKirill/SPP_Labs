@@ -1,0 +1,7 @@
+D:\SPP_Labs\laba3\laba3\bin\Debug\laba3.exe.config
+D:\SPP_Labs\laba3\laba3\bin\Debug\laba3.exe
+D:\SPP_Labs\laba3\laba3\bin\Debug\laba3.pdb
+D:\SPP_Labs\laba3\laba3\obj\x86\Debug\laba3.csproj.AssemblyReference.cache
+D:\SPP_Labs\laba3\laba3\obj\x86\Debug\laba3.csproj.CoreCompileInputs.cache
+D:\SPP_Labs\laba3\laba3\obj\x86\Debug\laba3.exe
+D:\SPP_Labs\laba3\laba3\obj\x86\Debug\laba3.pdb

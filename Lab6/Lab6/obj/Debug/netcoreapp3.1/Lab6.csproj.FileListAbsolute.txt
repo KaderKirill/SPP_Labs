@@ -1,0 +1,5 @@
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.AssemblyReference.cache
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+D:\SPP_Labs\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
